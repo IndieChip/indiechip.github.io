@@ -1,1 +1,0 @@
-# Sample GUI for Minecraft
